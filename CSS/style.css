@@ -64,3 +64,6 @@ body {
     transform: skew(20deg,5deg);
     transition: transform 3s;
 }
+.icon-size{
+    font-size: 30px;
+}
