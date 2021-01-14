@@ -1,0 +1,52 @@
+#logo{
+    width: 400px;
+}
+.navbar-padding{
+    padding-left: 200px;
+}
+#header-bg{
+    background-color: #FFFBF0;
+}
+#top-image,#Last-image{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100px;
+}
+.tex-color1{
+    color: #FABE4C;
+    font-weight: 700;
+    font-size: 50px;
+}
+.tex-color2{
+   color: #363958;
+   font-weight: 700;
+   font-size: 50px;
+}
+.icon-button{
+    background-color: #8CA723;
+    border-radius: 10px;
+    color: white;
+}
+.card-image{
+    background-color:#F1F1F1 ;
+    width: 100%;
+    border-radius: 5%;
+    
+    
+    height: 500px;
+}
+.jacket-card{
+    border: none;
+    margin-right: 2px;
+    width: 100%;
+    
+    
+}
+.check{
+    border: 1px solid black;
+}
+.icon-image{
+    width: 96px;
+
+   
+}
