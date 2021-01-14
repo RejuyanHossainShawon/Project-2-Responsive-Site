@@ -51,3 +51,12 @@ body {
 .icon-image {
   width: 96px;
 }
+@media screen and (max-width: 500px) {
+    .icon-row {
+      flex-direction: column-reverse;
+    }
+}
+
+.last-section{
+    border-bottom: 1px solid black;
+}
