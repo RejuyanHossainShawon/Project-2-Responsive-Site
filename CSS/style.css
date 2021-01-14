@@ -60,3 +60,7 @@ body {
 .last-section{
     border-bottom: 1px solid black;
 }
+.card>img:hover{
+    transform: skew(20deg,5deg);
+    transition: transform 3s;
+}
