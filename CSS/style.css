@@ -62,7 +62,7 @@ body {
 }
 .card>img:hover{
     transform: skew(20deg,5deg);
-    transition: transform 3s;
+    transition: transform 1.5s;
 }
 .icon-size{
     font-size: 30px;
